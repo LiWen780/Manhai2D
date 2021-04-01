@@ -1,5 +1,5 @@
-//DEVELOPED BY LI WEN, LEADER OF MANHAI-PICTURES 2018-2020
-//@MANHAI-PICTURES COPYRIGHT
+//DEVELOPED BY LI WEN, LEADER OF MANHAI-PICTURES 2018-2021
+//@LiWenStudios COPYRIGHT
 	
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
